@@ -27,7 +27,7 @@ This repository contains Jupyter notebooks for Python exercises and an exam auth
 
 ## Author
 
-Delos Santos
+Delos Santos ngga
 
 ---
 
