@@ -21,15 +21,15 @@ Built with the tools and technologies:
 
 The following Jupyter Notebooks are included in the repository:
 
-1. **DelosSantos_HandsOnFunction.ipynb** - Created using Colab, 3 weeks ago.
-2. **Delos_Santos_Cleaning_Lab.ipynb** - Created using Colab, 21 minutes ago.
-3. **Delos_Santos_List_Tuple_Dictionary.ipynb** - Created using Colab, 3 weeks ago.
-4. **Delos_Santos_NumPy.ipynb** - Created using Colab, 3 weeks ago.
-5. **Delos_Santos_Regular_Expression.ipynb** - Created using Colab, 11 minutes ago.
-6. **Exam_Delos-Santos.ipynb** - Created using Colab, 3 weeks ago.
-7. **Pandas_DelosSantos.ipynb** - Created using Colab, 3 days ago.
-8. **PythonLists.ipynb** - Created using Colab, 3 weeks ago.
-9. **PythonTuples.ipynb** - Created using Colab, 3 weeks ago.
+1. **DelosSantos_HandsOnFunction.ipynb**
+2. **Delos_Santos_Cleaning_Lab.ipynb**
+3. **Delos_Santos_List_Tuple_Dictionary.ipynb**
+4. **Delos_Santos_NumPy.ipynb**
+5. **Delos_Santos_Regular_Expression.ipynb**
+6. **Exam_Delos-Santos.ipynb**
+7. **Pandas_DelosSantos.ipynb**
+8. **PythonLists.ipynb**
+9. **PythonTuples.ipynb**
 
 ## Getting Started
 
