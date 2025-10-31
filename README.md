@@ -19,7 +19,8 @@ Built with the tools and technologies:
 
 ## Included Files
 
-The following Jupyter Notebooks are included in the repository:
+### Delos Santos - Activities
+The following Jupyter Notebooks are activities authored by Delos Santos:
 
 1. **DelosSantos_HandsOnFunction.ipynb**
 2. **Delos_Santos_Cleaning_Lab.ipynb**
@@ -28,8 +29,12 @@ The following Jupyter Notebooks are included in the repository:
 5. **Delos_Santos_Regular_Expression.ipynb**
 6. **Exam_Delos-Santos.ipynb**
 7. **Pandas_DelosSantos.ipynb**
-8. **PythonLists.ipynb**
-9. **PythonTuples.ipynb**
+
+### Modules
+These Jupyter Notebooks serve as modules for broader topics:
+
+1. **PythonLists.ipynb**
+2. **PythonTuples.ipynb**
 
 ## Getting Started
 
